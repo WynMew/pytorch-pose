@@ -29,11 +29,13 @@ Some codes for data preparation and augmentation are brought from the [Stacked h
 
 ### Camera demo
 
+~~~python
 python CamPose.py
 
-or python CamPoseNoParallel
+#or
 
-python CamPose.py
+python CamPoseNoParallel
+~~~python
 
 ### Testing
 You may download our pretrained models (e.g., [2-stack hourglass model](https://drive.google.com/drive/folders/0B63t5HSgY4SQQ2FBRE5rQ2EzbjQ?usp=sharing)) for a quick start.
